@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VocalCoach/app/src/main/res/drawable/replaybutton.xml" value="0.2046875" />
+        <entry key="..\:/VocalCoach/app/src/main/res/layout/activity_folders.xml" value="0.7309090750670634" />
+        <entry key="..\:/VocalCoach/app/src/main/res/layout/activity_main.xml" value="0.29528985507246375" />
+        <entry key="..\:/VocalCoach/app/src/main/res/layout/activity_player.xml" value="0.22909090412549746" />
+        <entry key="..\:/VocalCoach/app/src/main/res/layout/activity_tasks.xml" value="0.29528985507246375" />
+        <entry key="..\:/VocalCoach/app/src/main/res/layout/task_item.xml" value="0.35999999219721035" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

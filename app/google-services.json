@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703260282228",
+    "project_id": "vocalcoach-e604a",
+    "storage_bucket": "vocalcoach-e604a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703260282228:android:973ad490e2e0d619fe3021",
+        "android_client_info": {
+          "package_name": "com.example.vocalcoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703260282228-28nuub39g8orcrgbkc5ndgvqr612j31m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbJkapc4GtJ9_myPwlecW-OcW-3t3a40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703260282228-28nuub39g8orcrgbkc5ndgvqr612j31m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

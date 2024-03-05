@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VocalCoach</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="loop">Loop</string>
+    <string name="type">type</string>
+</resources>
